@@ -23,8 +23,5 @@ public class Main {
                 System.out.println("Letter " + charValue + " was not found in the switch");
                 break;
         }
-
-
-
     }
 }
